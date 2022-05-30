@@ -1,0 +1,94 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "Top Gun: Maverick",
+        "rating": 97,
+        "year": "2022",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmIwZDMyYWUtNTU0ZS00ODJhLTg2ZmEtMTk5ZmYzODcxODYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_.jpg",
+        "description": "After more than 30 years of service as one of the Navy's top aviators, Pete Maverick Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. Training a detachment of graduates for a special assignment, Maverick must confront the ghosts of his past and his deepest fears, culminating in a mission that demands the ultimate sacrifice from those who choose to fly it.",
+        "platforms": {
+          "Netflix": "false",
+          "Hulu": "false",
+          "AmazonPrime": "false",
+          "DisneyPlus": "false",
+          "Theaters": "true"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Top Gun",
+        "rating": 56,
+        "year": "1986",
+        "description": "As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.",
+        "image": "https://movieposters2.com/images/1712650-b.jpg",
+        "platforms": {
+          "Netflix": "true",
+          "Hulu": "false",
+          "AmazonPrime": "true",
+          "DisneyPlus": "false",
+          "Theaters": "false"
+        }
+      },
+      {
+        "id": 3,
+        "title": "A New Hope",
+        "rating": 96,
+        "year": "1986",
+        "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+        "image": "https://i.ebayimg.com/images/g/OrcAAOSw4gBh2gar/s-l500.jpg",
+        "platforms": {
+          "Netflix": "false",
+          "Hulu": "true",
+          "AmazonPrime": "true",
+          "DisneyPlus": "true",
+          "Theaters": "false"
+        }
+      },
+      {
+        "id": 4,
+        "title": "The Empire Strikes Back",
+        "rating": 94,
+        "year": "1986",
+        "description": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",
+        "image": "https://m.media-amazon.com/images/I/814Cbv8EftL._AC_SL1200_.jpg",
+        "platforms": {
+          "Netflix": "false",
+          "Hulu": "true",
+          "AmazonPrime": "true",
+          "DisneyPlus": "true",
+          "Theaters": "false"
+        }
+      },
+      {
+        "id": 5,
+        "title": "The Return Of The Jedi",
+        "rating": 83,
+        "year": "1986",
+        "description": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.",
+        "image": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/f38cb38707f05dc86f483b07c215c7dd_a1fb33f9-f075-438f-bc49-2e8c2a2e2d02_500x.jpg?v=1573653657",
+        "platforms": {
+          "Netflix": "false",
+          "Hulu": "true",
+          "AmazonPrime": "true",
+          "DisneyPlus": "true",
+          "Theaters": "false"
+        }
+      },
+      {
+        "id": 6,
+        "title": "Demolition Man",
+        "rating": 62,
+        "year": "1986",
+        "description": "A police officer is brought out of suspended animation in prison to pursue an old ultra-violent nemesis who is loose in a non-violent future society.",
+        "image": "https://postercollector.co.uk/site/posters/2016/09/IMG_9331.jpg",
+        "platforms": {
+          "Netflix": "false",
+          "Hulu": "true",
+          "AmazonPrime": "false",
+          "DisneyPlus": "false",
+          "Theaters": "false"
+        }
+      }
+    ]
+  }
